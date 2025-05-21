@@ -3,3 +3,6 @@ uvicorn[standard]
 pymongo
 sentence-transformers
 python-dotenv
+selenium
+webdriver-manager
+pandas
